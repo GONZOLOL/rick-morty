@@ -1,5 +1,10 @@
 ![image](https://github.com/user-attachments/assets/a0316df2-8134-4f6d-ac6c-5e465cd47ebf)
 
+![image](https://github.com/user-attachments/assets/78f69244-fd03-40c1-b318-f89161ef2ef3)
+
+![image](https://github.com/user-attachments/assets/10a69776-b496-43c0-9dd2-c1cd518f3372)
+
+
 
 # Rick and Morty Code Test
 
