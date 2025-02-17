@@ -4,6 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/10a69776-b496-43c0-9dd2-c1cd518f3372)
 
+![image](https://github.com/user-attachments/assets/f4c3ed10-80ff-4b41-a041-e40829a639b6)
 
 
 # Rick and Morty Code Test
