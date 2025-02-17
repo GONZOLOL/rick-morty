@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/a0316df2-8134-4f6d-ac6c-5e465cd47ebf)
+
+
 # Rick and Morty Code Test
 
 ## Project Description
